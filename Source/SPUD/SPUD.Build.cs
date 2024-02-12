@@ -40,5 +40,7 @@ public class SPUD : ModuleRules
 			{
 			}
 			);
+		
+		PublicDefinitions.Add("PLATFORM_SONY=1");
 	}
 }
